@@ -1,0 +1,9 @@
+* cm-incudine
+
+Realtime bindings to Common Music 2 using incudine.
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/ormf/cm-incudine.git |
+| commit  | 836f79e                                     |
+| systems | cm-incudine                                 |
+|---------+---------------------------------------------|
